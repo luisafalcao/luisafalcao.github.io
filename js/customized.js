@@ -1,0 +1,6 @@
+$('#modalOne').modal(options)
+$('#modalTwo').modal(options)
+$('#modalThree').modal(options)
+$('#modalFour').modal(options)
+$('#modalFive').modal(options)
+$('#modalSix').modal(options)
